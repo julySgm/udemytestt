@@ -1,7 +1,6 @@
 <?php
 
 echo "mensaje1";
-echo "mensaje de desarrollador2";
-
+echo "mensaje del desarrolador 1"
 
 ?>
