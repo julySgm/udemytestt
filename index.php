@@ -1,7 +1,7 @@
 <?php
 
 echo "mensaje1";
-echo "mensajeConflicto1";
+echo "mensajeConflicto3";
 
 
 ?>
